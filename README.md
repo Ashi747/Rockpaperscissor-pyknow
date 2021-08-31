@@ -1,1 +1,1 @@
-# Rockpaperscissor-pyknow
+# Rock-paper-scissor
